@@ -1,1 +1,4078 @@
-{"version":"0.4","title":"About Our Business","type":"page","content":[{"id":"isixbln","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":700},"content_position":"middle","html_tag":"header","background_background":"video","background_video_link":"http:\/\/www.youtube.com\/watch?v=x-3gF172keo","background_video_fallback":{"id":3531,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/header.jpg"},"background_overlay_background":"gradient","background_overlay_color":"rgba(30,30,30,0.5)","background_overlay_color_b":"#000000","background_overlay_opacity":{"unit":"px","size":0.8},"shape_divider_bottom":"arrow","custom_height_mobile":{"unit":"px","size":550},"shape_divider_bottom_width_mobile":{"unit":"%","size":250},"background_image":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"dqkyxoh","elType":"column","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"lwegupv","elType":"widget","settings":{"title":"About Our Business","header_size":"h1","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","typography_line_height":{"unit":"em","size":3},"typography_line_height_mobile":{"unit":"em","size":1.5},"typography_font_size":{"unit":"px","size":64},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"heading"},{"id":"pmwocht","elType":"widget","settings":{"text":"Meet us","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.5},"border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"typography_font_weight":"normal","background_color":"#e91e63","_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"rzkzbgm","elType":"section","settings":{"layout":"full_width","stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"qhdefwj","elType":"column","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"uwesfbs","elType":"widget","settings":{"carousel":[{"id":3532,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo2.png"},{"id":3533,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo1.png"},{"id":3534,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo5.png"},{"id":3535,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo4.png"},{"id":3536,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo3.png"}],"thumbnail_size":"full","slides_to_show":"3","slides_to_show_tablet":"2","slides_to_show_mobile":"1","navigation":"none","arrows_position":"outside","arrows_size":{"unit":"px","size":25},"arrows_color":"rgba(0,0,0,0.25)","_padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_animation":"fadeIn","autoplay_speed":1500,"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"image-carousel"}],"isInner":false}],"isInner":false},{"id":"coftvzj","elType":"section","settings":{"gap":"no","background_background":"classic","background_color":"#e5e5e5","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"90","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"50","right":"0","bottom":"10","left":"0","isLinked":false},"stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"eqoqkgy","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"fulauhx","elType":"widget","settings":{"title":"What We're Offering","align":"center","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","typography_line_height":{"unit":"em","size":2},"_background_background":"classic","typography_font_size_mobile":{"unit":"px","size":30},"title_color":"#3c4858","typography_font_size":{"unit":"px","size":44},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"ttbuahk","elType":"section","settings":{"structure":"31","background_background":"classic","background_color":"#e5e5e5","padding":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"ibkcfwn","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_tablet":50,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"cmlfnsm","elType":"widget","settings":{"icon":"fa fa-bus","title_text":"Public Transport","description_text":"Many people use a bus to get around the city every day. This seems useful.","_css_classes":"card card-raised","_padding":{"unit":"px","top":"25","right":"20","bottom":"25","left":"25","isLinked":false},"_animation":"fadeIn","primary_color":"#e91e63","title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","title_typography_font_weight":"700","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"description_typography_font_size":{"unit":"px","size":16},"title_typography_line_height":{"unit":"px","size":28},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#ffffff","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"zaedrne","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_tablet":50,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"aacdzxv","elType":"widget","settings":{"icon":"fa fa-taxi","title_text":"Taxi Cabs","description_text":"Limos, taxi cabs and other services are provided every day for citizens.","_css_classes":"card card-raised","_padding":{"unit":"px","top":"25","right":"20","bottom":"25","left":"20","isLinked":false},"_animation":"fadeIn","primary_color":"#e91e63","title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"title_typography_font_weight":"700","description_typography_font_size":{"unit":"px","size":16},"title_typography_line_height":{"unit":"px","size":28},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#ffffff","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"bjidmzw","elType":"column","settings":{"_column_size":50,"_inline_size":null,"animation":"fadeInRight","space_between_widgets":45,"background_hover_background":"classic","_inline_size_tablet":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"vrepvsc","elType":"widget","settings":{"title":"Subway","inner_text":"","bar_color":"#e91e63","title_color":"#3c4858","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","bar_bg_color":"rgba(255,45,129,0.44)","typography_font_size":{"unit":"px","size":16},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"progress"},{"id":"ukwmsfy","elType":"widget","settings":{"title":"Busses","percent":{"unit":"%","size":15},"inner_text":"","bar_color":"#e91e63","title_color":"#3c4858","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","bar_bg_color":"rgba(255,45,129,0.44)","typography_font_size":{"unit":"px","size":16},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"progress"},{"id":"ltluedn","elType":"widget","settings":{"title":"Taxi Cabs","percent":{"unit":"%","size":35},"inner_text":"","bar_color":"#e91e63","title_color":"#3c4858","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","bar_bg_color":"rgba(255,45,129,0.44)","typography_font_size":{"unit":"px","size":16},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"progress"}],"isInner":false}],"isInner":false},{"id":"htfnkzn","elType":"section","settings":{"layout":"full_width","gap":"no","content_position":"top","background_background":"classic","background_color":"#e5e5e5","stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"ftlgfwa","elType":"column","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"invlspd","elType":"widget","settings":{"wp_gallery":[{"id":3537,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/gallery2.jpg"},{"id":3538,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/gallery1.jpg"},{"id":3539,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/gallery4.jpg"},{"id":3540,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/gallery3.jpg"}],"thumbnail_size":"shop_single","gallery_link":"none","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":0},"image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"gallery_display_caption":"none","_margin":{"unit":"px","top":"0","right":"-0","bottom":"0","left":"0","isLinked":false},"_z_index":0,"_animation":"fadeIn","image_border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"image-gallery"}],"isInner":false}],"isInner":false},{"id":"oqcjuks","elType":"section","settings":{"gap":"no","background_background":"classic","background_color":"#e5e5e5","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"90","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"50","right":"0","bottom":"10","left":"0","isLinked":false},"stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"wqqaphh","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"zckvyqj","elType":"widget","settings":{"title":"Our Team","align":"center","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","typography_line_height":{"unit":"em","size":2},"_background_background":"classic","typography_font_size_mobile":{"unit":"px","size":30},"title_color":"#3c4858","typography_font_size":{"unit":"px","size":44},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"suzjtiv","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#e5e5e5","padding":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"background_image":{"id":3544,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/team-background.jpg"},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"gradient","background_overlay_color":"#e5e5e5","background_overlay_color_b":"rgba(229,229,229,0.68)","background_overlay_color_b_stop":{"unit":"%","size":82},"background_overlay_opacity":{"unit":"px","size":1},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"stretch_section":"section-stretched","background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"vuoloxw","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","_inline_size_tablet":33,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"dkkjrth","elType":"widget","settings":{"image":{"id":3541,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/team1.jpg"},"title_text":"Teddy Jones","description_text":"Vinyl tilde wolf, mixtape tote bag chicharrones activated charcoal forage locavore wayfarers drinking vinegar.","title_size":"div","image_space":{"unit":"px","size":20},"image_size":{"unit":"%","size":100},"hover_animation":"bob","title_bottom_space":{"unit":"px","size":20},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_css_classes":"card card-raised ","text_align":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"description_typography_font_size":{"unit":"px","size":16},"title_typography_font_weight":"700","title_typography_line_height":{"unit":"px","size":21},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#f9f9f9","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"akgocpl","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"frhqdna","elType":"widget","settings":{"image":{"id":3542,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/team2.jpg"},"title_text":"Buddy Beagle","description_text":"Prism raclette intelligentsia, fingerstache pok pok distillery bushwick food truck. Blog sartorial jean shorts banh. ","title_size":"div","image_space":{"unit":"px","size":20},"image_size":{"unit":"%","size":100},"hover_animation":"bob","title_bottom_space":{"unit":"px","size":20},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_css_classes":"card card-raised ","text_align":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"description_typography_font_size":{"unit":"px","size":16},"title_typography_font_weight":"700","title_typography_line_height":{"unit":"px","size":21},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#ffffff","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"pzlypop","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"gklwmyx","elType":"widget","settings":{"image":{"id":3543,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/team3.jpg"},"title_text":"Kitty Kat","description_text":"Vinyl tilde wolf, mixtape tote bag chicharrones activated charcoal forage locavore wayfarers drinking vinegar.","title_size":"div","image_space":{"unit":"px","size":20},"image_size":{"unit":"%","size":100},"hover_animation":"bob","title_bottom_space":{"unit":"px","size":20},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_css_classes":"card card-raised ","text_align":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"description_typography_font_size":{"unit":"px","size":16},"title_typography_font_weight":"700","title_typography_line_height":{"unit":"px","size":21},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#ffffff","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"image-box"}],"isInner":false}],"isInner":false},{"id":"nfsxler","elType":"section","settings":{"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":""},"column_position":"top","content_position":"middle","html_tag":"section","stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"bhfqrox","elType":"column","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"apoymmj","elType":"widget","settings":{"address":" 45 Rockefeller Plaza, New York, NY 10111, Statele Unite ale Americii","zoom":{"unit":"px","size":15},"height":{"unit":"px","size":400},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"dmijncp","elType":"section","settings":{"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"vpbtyqd","elType":"column","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false}],"isInner":false}],"data":[{"id":"isixbln","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":700},"content_position":"middle","html_tag":"header","background_background":"video","background_video_link":"http:\/\/www.youtube.com\/watch?v=x-3gF172keo","background_video_fallback":{"id":3531,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/header.jpg"},"background_overlay_background":"gradient","background_overlay_color":"rgba(30,30,30,0.5)","background_overlay_color_b":"#000000","background_overlay_opacity":{"unit":"px","size":0.8},"shape_divider_bottom":"arrow","custom_height_mobile":{"unit":"px","size":550},"shape_divider_bottom_width_mobile":{"unit":"%","size":250},"background_image":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"dqkyxoh","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"lwegupv","settings":{"title":"About Our Business","header_size":"h1","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","typography_line_height":{"unit":"em","size":3},"typography_line_height_mobile":{"unit":"em","size":1.5},"typography_font_size":{"unit":"px","size":64},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"},{"id":"pmwocht","settings":{"text":"Meet us","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.5},"border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"typography_font_weight":"normal","background_color":"#e91e63","_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"button","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"},{"id":"rzkzbgm","settings":{"layout":"full_width","stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"qhdefwj","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"uwesfbs","settings":{"carousel":[{"id":3532,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo2.png"},{"id":3533,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo1.png"},{"id":3534,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo5.png"},{"id":3535,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo4.png"},{"id":3536,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/logo3.png"}],"thumbnail_size":"full","slides_to_show":"3","slides_to_show_tablet":"2","slides_to_show_mobile":"1","navigation":"none","arrows_position":"outside","arrows_size":{"unit":"px","size":25},"arrows_color":"rgba(0,0,0,0.25)","_padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_animation":"fadeIn","autoplay_speed":1500,"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"image-carousel","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"},{"id":"coftvzj","settings":{"gap":"no","background_background":"classic","background_color":"#e5e5e5","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"90","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"50","right":"0","bottom":"10","left":"0","isLinked":false},"stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"eqoqkgy","settings":{"_column_size":100,"_inline_size":null,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"fulauhx","settings":{"title":"What We're Offering","align":"center","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","typography_line_height":{"unit":"em","size":2},"_background_background":"classic","typography_font_size_mobile":{"unit":"px","size":30},"title_color":"#3c4858","typography_font_size":{"unit":"px","size":44},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"},{"id":"ttbuahk","settings":{"structure":"31","background_background":"classic","background_color":"#e5e5e5","padding":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"ibkcfwn","settings":{"_column_size":25,"_inline_size":null,"_inline_size_tablet":50,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"cmlfnsm","settings":{"icon":"fa fa-bus","title_text":"Public Transport","description_text":"Many people use a bus to get around the city every day. This seems useful.","_css_classes":"card card-raised","_padding":{"unit":"px","top":"25","right":"20","bottom":"25","left":"25","isLinked":false},"_animation":"fadeIn","primary_color":"#e91e63","title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","title_typography_font_weight":"700","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"description_typography_font_size":{"unit":"px","size":16},"title_typography_line_height":{"unit":"px","size":28},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#ffffff","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"icon-box","elType":"widget"}],"isInner":false,"elType":"column"},{"id":"zaedrne","settings":{"_column_size":25,"_inline_size":null,"_inline_size_tablet":50,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"aacdzxv","settings":{"icon":"fa fa-taxi","title_text":"Taxi Cabs","description_text":"Limos, taxi cabs and other services are provided every day for citizens.","_css_classes":"card card-raised","_padding":{"unit":"px","top":"25","right":"20","bottom":"25","left":"20","isLinked":false},"_animation":"fadeIn","primary_color":"#e91e63","title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"title_typography_font_weight":"700","description_typography_font_size":{"unit":"px","size":16},"title_typography_line_height":{"unit":"px","size":28},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#ffffff","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"icon-box","elType":"widget"}],"isInner":false,"elType":"column"},{"id":"bjidmzw","settings":{"_column_size":50,"_inline_size":null,"animation":"fadeInRight","space_between_widgets":45,"background_hover_background":"classic","_inline_size_tablet":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"vrepvsc","settings":{"title":"Subway","inner_text":"","bar_color":"#e91e63","title_color":"#3c4858","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","bar_bg_color":"rgba(255,45,129,0.44)","typography_font_size":{"unit":"px","size":16},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"progress","elType":"widget"},{"id":"ukwmsfy","settings":{"title":"Busses","percent":{"unit":"%","size":15},"inner_text":"","bar_color":"#e91e63","title_color":"#3c4858","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","bar_bg_color":"rgba(255,45,129,0.44)","typography_font_size":{"unit":"px","size":16},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"progress","elType":"widget"},{"id":"ltluedn","settings":{"title":"Taxi Cabs","percent":{"unit":"%","size":35},"inner_text":"","bar_color":"#e91e63","title_color":"#3c4858","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","bar_bg_color":"rgba(255,45,129,0.44)","typography_font_size":{"unit":"px","size":16},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"progress","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"},{"id":"htfnkzn","settings":{"layout":"full_width","gap":"no","content_position":"top","background_background":"classic","background_color":"#e5e5e5","stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"ftlgfwa","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"invlspd","settings":{"wp_gallery":[{"id":3537,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/gallery2.jpg"},{"id":3538,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/gallery1.jpg"},{"id":3539,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/gallery4.jpg"},{"id":3540,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/gallery3.jpg"}],"thumbnail_size":"shop_single","gallery_link":"none","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":0},"image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"gallery_display_caption":"none","_margin":{"unit":"px","top":"0","right":"-0","bottom":"0","left":"0","isLinked":false},"_z_index":0,"_animation":"fadeIn","image_border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"image-gallery","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"},{"id":"oqcjuks","settings":{"gap":"no","background_background":"classic","background_color":"#e5e5e5","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"90","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"50","right":"0","bottom":"10","left":"0","isLinked":false},"stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"wqqaphh","settings":{"_column_size":100,"_inline_size":null,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"zckvyqj","settings":{"title":"Our Team","align":"center","typography_typography":"custom","typography_font_family":"Roboto Slab","typography_font_weight":"700","typography_line_height":{"unit":"em","size":2},"_background_background":"classic","typography_font_size_mobile":{"unit":"px","size":30},"title_color":"#3c4858","typography_font_size":{"unit":"px","size":44},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"heading","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"},{"id":"suzjtiv","settings":{"structure":"30","background_background":"classic","background_color":"#e5e5e5","padding":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"background_image":{"id":3544,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/team-background.jpg"},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"gradient","background_overlay_color":"#e5e5e5","background_overlay_color_b":"rgba(229,229,229,0.68)","background_overlay_color_b_stop":{"unit":"%","size":82},"background_overlay_opacity":{"unit":"px","size":1},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"stretch_section":"section-stretched","background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"vuoloxw","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","_inline_size_tablet":33,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"dkkjrth","settings":{"image":{"id":3541,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/team1.jpg"},"title_text":"Teddy Jones","description_text":"Vinyl tilde wolf, mixtape tote bag chicharrones activated charcoal forage locavore wayfarers drinking vinegar.","title_size":"div","image_space":{"unit":"px","size":20},"image_size":{"unit":"%","size":100},"hover_animation":"bob","title_bottom_space":{"unit":"px","size":20},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_css_classes":"card card-raised ","text_align":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"description_typography_font_size":{"unit":"px","size":16},"title_typography_font_weight":"700","title_typography_line_height":{"unit":"px","size":21},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#f9f9f9","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"image-box","elType":"widget"}],"isInner":false,"elType":"column"},{"id":"akgocpl","settings":{"_column_size":33,"_inline_size":null,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"frhqdna","settings":{"image":{"id":3542,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/team2.jpg"},"title_text":"Buddy Beagle","description_text":"Prism raclette intelligentsia, fingerstache pok pok distillery bushwick food truck. Blog sartorial jean shorts banh. ","title_size":"div","image_space":{"unit":"px","size":20},"image_size":{"unit":"%","size":100},"hover_animation":"bob","title_bottom_space":{"unit":"px","size":20},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_css_classes":"card card-raised ","text_align":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"description_typography_font_size":{"unit":"px","size":16},"title_typography_font_weight":"700","title_typography_line_height":{"unit":"px","size":21},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#ffffff","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"image-box","elType":"widget"}],"isInner":false,"elType":"column"},{"id":"pzlypop","settings":{"_column_size":33,"_inline_size":null,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"gklwmyx","settings":{"image":{"id":3543,"url":"http:\/\/demo.themeisle.com\/hestia-pro-demo-content\/wp-content\/uploads\/sites\/105\/2017\/11\/team3.jpg"},"title_text":"Kitty Kat","description_text":"Vinyl tilde wolf, mixtape tote bag chicharrones activated charcoal forage locavore wayfarers drinking vinegar.","title_size":"div","image_space":{"unit":"px","size":20},"image_size":{"unit":"%","size":100},"hover_animation":"bob","title_bottom_space":{"unit":"px","size":20},"_padding":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true},"_css_classes":"card card-raised ","text_align":"center","_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"title_color":"#3c4858","title_typography_typography":"custom","title_typography_font_family":"Roboto Slab","description_color":"#a5a5a5","description_typography_typography":"custom","description_typography_font_weight":"300","title_typography_font_size":{"unit":"px","size":20},"description_typography_font_size":{"unit":"px","size":16},"title_typography_font_weight":"700","title_typography_line_height":{"unit":"px","size":21},"description_typography_line_height":{"unit":"px","size":28},"_background_background":"classic","_background_color":"#ffffff","_border_radius":{"unit":"px","top":"6","right":"6","bottom":"6","left":"6","isLinked":true},"_box_shadow_box_shadow_type":"yes","_box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":15,"spread":0,"color":"rgba(0,0,0,0.5)"},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"image-box","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"},{"id":"nfsxler","settings":{"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":""},"column_position":"top","content_position":"middle","html_tag":"section","stretch_section":"section-stretched","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"bhfqrox","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"apoymmj","settings":{"address":" 45 Rockefeller Plaza, New York, NY 10111, Statele Unite ale Americii","zoom":{"unit":"px","size":15},"height":{"unit":"px","size":400},"_background_image":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"widgetType":"google_maps","elType":"widget"}],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"},{"id":"dmijncp","settings":{"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"vpbtyqd","settings":{"_column_size":100,"background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[],"isInner":false,"elType":"column"}],"isInner":false,"elType":"section"}],"page_settings":{"background_background":"classic","background_color":"#a5a5a5","background_image":{"url":"","id":""},"background_video_fallback":{"url":"","id":""}}}
+{
+  "version": "0.4",
+  "title": "About Our Business",
+  "type": "page",
+  "content": [
+    {
+      "id": "isixbln",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "full_width",
+        "gap": "no",
+        "height": "min-height",
+        "custom_height": {
+          "unit": "px",
+          "size": 700
+        },
+        "content_position": "middle",
+        "html_tag": "header",
+        "background_background": "video",
+        "background_video_link": "http:\/\/www.youtube.com\/watch?v=x-3gF172keo",
+        "background_video_fallback": {
+          "id": 3531,
+          "url": "http://samples.themeisle.com/media/hestia-templates/about/header.jpg"
+        },
+        "background_overlay_background": "gradient",
+        "background_overlay_color": "rgba(30,30,30,0.5)",
+        "background_overlay_color_b": "#000000",
+        "background_overlay_opacity": {
+          "unit": "px",
+          "size": 0.8
+        },
+        "shape_divider_bottom": "arrow",
+        "custom_height_mobile": {
+          "unit": "px",
+          "size": 550
+        },
+        "shape_divider_bottom_width_mobile": {
+          "unit": "%",
+          "size": 250
+        },
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "dqkyxoh",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "lwegupv",
+              "elType": "widget",
+              "settings": {
+                "title": "About Our Business",
+                "header_size": "h1",
+                "align": "center",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 3
+                },
+                "typography_line_height_mobile": {
+                  "unit": "em",
+                  "size": 1.5
+                },
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 64
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "pmwocht",
+              "elType": "widget",
+              "settings": {
+                "text": "Meet us",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.5
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": "3",
+                  "right": "3",
+                  "bottom": "3",
+                  "left": "3",
+                  "isLinked": true
+                },
+                "typography_font_weight": "normal",
+                "background_color": "#e91e63",
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "rzkzbgm",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "qhdefwj",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "uwesfbs",
+              "elType": "widget",
+              "settings": {
+                "carousel": [
+                  {
+                    "id": 3532,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo2.png"
+                  },
+                  {
+                    "id": 3533,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo1.png"
+                  },
+                  {
+                    "id": 3534,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo5.png"
+                  },
+                  {
+                    "id": 3535,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo4.png"
+                  },
+                  {
+                    "id": 3536,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo3.png"
+                  }
+                ],
+                "thumbnail_size": "full",
+                "slides_to_show": "3",
+                "slides_to_show_tablet": "2",
+                "slides_to_show_mobile": "1",
+                "navigation": "none",
+                "arrows_position": "outside",
+                "arrows_size": {
+                  "unit": "px",
+                  "size": 25
+                },
+                "arrows_color": "rgba(0,0,0,0.25)",
+                "_padding": {
+                  "unit": "px",
+                  "top": "10",
+                  "right": "0",
+                  "bottom": "10",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_animation": "fadeIn",
+                "autoplay_speed": 1500,
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "image-carousel"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "coftvzj",
+      "elType": "section",
+      "settings": {
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "margin": {
+          "unit": "px",
+          "top": "",
+          "right": 0,
+          "bottom": "",
+          "left": 0,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "90",
+          "right": "0",
+          "bottom": "30",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "50",
+          "right": "0",
+          "bottom": "10",
+          "left": "0",
+          "isLinked": false
+        },
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "eqoqkgy",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "fulauhx",
+              "elType": "widget",
+              "settings": {
+                "title": "What We're Offering",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 2
+                },
+                "_background_background": "classic",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30
+                },
+                "title_color": "#3c4858",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "ttbuahk",
+      "elType": "section",
+      "settings": {
+        "structure": "31",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "50",
+          "left": "0",
+          "isLinked": false
+        },
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "ibkcfwn",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "_inline_size_tablet": 50,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "cmlfnsm",
+              "elType": "widget",
+              "settings": {
+                "icon": "fa fa-bus",
+                "title_text": "Public Transport",
+                "description_text": "Many people use a bus to get around the city every day. This seems useful.",
+                "_css_classes": "card card-raised",
+                "_padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "20",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": false
+                },
+                "_animation": "fadeIn",
+                "primary_color": "#e91e63",
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "title_typography_font_weight": "700",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#ffffff",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "zaedrne",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "_inline_size_tablet": 50,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "aacdzxv",
+              "elType": "widget",
+              "settings": {
+                "icon": "fa fa-taxi",
+                "title_text": "Taxi Cabs",
+                "description_text": "Limos, taxi cabs and other services are provided every day for citizens.",
+                "_css_classes": "card card-raised",
+                "_padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "20",
+                  "bottom": "25",
+                  "left": "20",
+                  "isLinked": false
+                },
+                "_animation": "fadeIn",
+                "primary_color": "#e91e63",
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#ffffff",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "bjidmzw",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null,
+            "animation": "fadeInRight",
+            "space_between_widgets": 45,
+            "background_hover_background": "classic",
+            "_inline_size_tablet": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "vrepvsc",
+              "elType": "widget",
+              "settings": {
+                "title": "Subway",
+                "inner_text": "",
+                "bar_color": "#e91e63",
+                "title_color": "#3c4858",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "bar_bg_color": "rgba(255,45,129,0.44)",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "progress"
+            },
+            {
+              "id": "ukwmsfy",
+              "elType": "widget",
+              "settings": {
+                "title": "Busses",
+                "percent": {
+                  "unit": "%",
+                  "size": 15
+                },
+                "inner_text": "",
+                "bar_color": "#e91e63",
+                "title_color": "#3c4858",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "bar_bg_color": "rgba(255,45,129,0.44)",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "progress"
+            },
+            {
+              "id": "ltluedn",
+              "elType": "widget",
+              "settings": {
+                "title": "Taxi Cabs",
+                "percent": {
+                  "unit": "%",
+                  "size": 35
+                },
+                "inner_text": "",
+                "bar_color": "#e91e63",
+                "title_color": "#3c4858",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "bar_bg_color": "rgba(255,45,129,0.44)",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "progress"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "htfnkzn",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "gap": "no",
+        "content_position": "top",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "ftlgfwa",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "invlspd",
+              "elType": "widget",
+              "settings": {
+                "wp_gallery": [
+                  {
+                    "id": 3537,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/gallery/gallery2.jpg"
+                  },
+                  {
+                    "id": 3538,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/gallery/gallery1.jpg"
+                  },
+                  {
+                    "id": 3539,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/gallery/gallery4.jpg"
+                  },
+                  {
+                    "id": 3540,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/gallery/gallery3.jpg"
+                  }
+                ],
+                "thumbnail_size": "shop_single",
+                "gallery_link": "none",
+                "image_spacing": "custom",
+                "image_spacing_custom": {
+                  "unit": "px",
+                  "size": 0
+                },
+                "image_border_radius": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "gallery_display_caption": "none",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "-0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_z_index": 0,
+                "_animation": "fadeIn",
+                "image_border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "image-gallery"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "oqcjuks",
+      "elType": "section",
+      "settings": {
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "margin": {
+          "unit": "px",
+          "top": "",
+          "right": 0,
+          "bottom": "",
+          "left": 0,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "90",
+          "right": "0",
+          "bottom": "30",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "50",
+          "right": "0",
+          "bottom": "10",
+          "left": "0",
+          "isLinked": false
+        },
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "wqqaphh",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "zckvyqj",
+              "elType": "widget",
+              "settings": {
+                "title": "Our Team",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 2
+                },
+                "_background_background": "classic",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30
+                },
+                "title_color": "#3c4858",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "suzjtiv",
+      "elType": "section",
+      "settings": {
+        "structure": "30",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_image": {
+          "id": 3544,
+          "url": "http://samples.themeisle.com/media/hestia-templates/about/team-background.jpg"
+        },
+        "background_position": "center center",
+        "background_attachment": "fixed",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_overlay_background": "gradient",
+        "background_overlay_color": "#e5e5e5",
+        "background_overlay_color_b": "rgba(229,229,229,0.68)",
+        "background_overlay_color_b_stop": {
+          "unit": "%",
+          "size": 82
+        },
+        "background_overlay_opacity": {
+          "unit": "px",
+          "size": 1
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "50",
+          "left": "0",
+          "isLinked": false
+        },
+        "stretch_section": "section-stretched",
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "vuoloxw",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "_inline_size_tablet": 33,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "dkkjrth",
+              "elType": "widget",
+              "settings": {
+                "image": {
+                  "id": 3541,
+                  "url": "http://samples.themeisle.com/media/hestia-templates/about/team/team1.jpg"
+                },
+                "title_text": "Teddy Jones",
+                "description_text": "Vinyl tilde wolf, mixtape tote bag chicharrones activated charcoal forage locavore wayfarers drinking vinegar.",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "image_size": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "hover_animation": "bob",
+                "title_bottom_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "_css_classes": "card card-raised ",
+                "text_align": "center",
+                "_padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#f9f9f9",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "image-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "akgocpl",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "frhqdna",
+              "elType": "widget",
+              "settings": {
+                "image": {
+                  "id": 3542,
+                  "url": "http://samples.themeisle.com/media/hestia-templates/about/team/team2.jpg"
+                },
+                "title_text": "Buddy Beagle",
+                "description_text": "Prism raclette intelligentsia, fingerstache pok pok distillery bushwick food truck. Blog sartorial jean shorts banh. ",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "image_size": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "hover_animation": "bob",
+                "title_bottom_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "_css_classes": "card card-raised ",
+                "text_align": "center",
+                "_padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#ffffff",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "image-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "pzlypop",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "gklwmyx",
+              "elType": "widget",
+              "settings": {
+                "image": {
+                  "id": 3543,
+                  "url": "http://samples.themeisle.com/media/hestia-templates/about/team/team3.jpg"
+                },
+                "title_text": "Kitty Kat",
+                "description_text": "Vinyl tilde wolf, mixtape tote bag chicharrones activated charcoal forage locavore wayfarers drinking vinegar.",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "image_size": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "hover_animation": "bob",
+                "title_bottom_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "_css_classes": "card card-raised ",
+                "text_align": "center",
+                "_padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#ffffff",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "image-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "nfsxler",
+      "elType": "section",
+      "settings": {
+        "layout": "full_width",
+        "gap": "no",
+        "custom_height": {
+          "unit": "px",
+          "size": ""
+        },
+        "column_position": "top",
+        "content_position": "middle",
+        "html_tag": "section",
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "bhfqrox",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "apoymmj",
+              "elType": "widget",
+              "settings": {
+                "address": " 45 Rockefeller Plaza, New York, NY 10111, Statele Unite ale Americii",
+                "zoom": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "height": {
+                  "unit": "px",
+                  "size": 400
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "widgetType": "google_maps"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "dmijncp",
+      "elType": "section",
+      "settings": {
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "vpbtyqd",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "data": [
+    {
+      "id": "isixbln",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "full_width",
+        "gap": "no",
+        "height": "min-height",
+        "custom_height": {
+          "unit": "px",
+          "size": 700
+        },
+        "content_position": "middle",
+        "html_tag": "header",
+        "background_background": "video",
+        "background_video_link": "http:\/\/www.youtube.com\/watch?v=x-3gF172keo",
+        "background_video_fallback": {
+          "id": 3531,
+          "url": "http://samples.themeisle.com/media/hestia-templates/about/header.jpg"
+        },
+        "background_overlay_background": "gradient",
+        "background_overlay_color": "rgba(30,30,30,0.5)",
+        "background_overlay_color_b": "#000000",
+        "background_overlay_opacity": {
+          "unit": "px",
+          "size": 0.8
+        },
+        "shape_divider_bottom": "arrow",
+        "custom_height_mobile": {
+          "unit": "px",
+          "size": 550
+        },
+        "shape_divider_bottom_width_mobile": {
+          "unit": "%",
+          "size": 250
+        },
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "dqkyxoh",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "lwegupv",
+              "settings": {
+                "title": "About Our Business",
+                "header_size": "h1",
+                "align": "center",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 3
+                },
+                "typography_line_height_mobile": {
+                  "unit": "em",
+                  "size": 1.5
+                },
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 64
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "pmwocht",
+              "settings": {
+                "text": "Meet us",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14
+                },
+                "typography_text_transform": "uppercase",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.5
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": "3",
+                  "right": "3",
+                  "bottom": "3",
+                  "left": "3",
+                  "isLinked": true
+                },
+                "typography_font_weight": "normal",
+                "background_color": "#e91e63",
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "button",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "rzkzbgm",
+      "settings": {
+        "layout": "full_width",
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "qhdefwj",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "uwesfbs",
+              "settings": {
+                "carousel": [
+                  {
+                    "id": 3532,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo2.png"
+                  },
+                  {
+                    "id": 3533,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo1.png"
+                  },
+                  {
+                    "id": 3534,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo5.png"
+                  },
+                  {
+                    "id": 3535,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo4.png"
+                  },
+                  {
+                    "id": 3536,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/logos/logo3.png"
+                  }
+                ],
+                "thumbnail_size": "full",
+                "slides_to_show": "3",
+                "slides_to_show_tablet": "2",
+                "slides_to_show_mobile": "1",
+                "navigation": "none",
+                "arrows_position": "outside",
+                "arrows_size": {
+                  "unit": "px",
+                  "size": 25
+                },
+                "arrows_color": "rgba(0,0,0,0.25)",
+                "_padding": {
+                  "unit": "px",
+                  "top": "10",
+                  "right": "0",
+                  "bottom": "10",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_animation": "fadeIn",
+                "autoplay_speed": 1500,
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-carousel",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "coftvzj",
+      "settings": {
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "margin": {
+          "unit": "px",
+          "top": "",
+          "right": 0,
+          "bottom": "",
+          "left": 0,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "90",
+          "right": "0",
+          "bottom": "30",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "50",
+          "right": "0",
+          "bottom": "10",
+          "left": "0",
+          "isLinked": false
+        },
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "eqoqkgy",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "fulauhx",
+              "settings": {
+                "title": "What We're Offering",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 2
+                },
+                "_background_background": "classic",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30
+                },
+                "title_color": "#3c4858",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "ttbuahk",
+      "settings": {
+        "structure": "31",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "50",
+          "left": "0",
+          "isLinked": false
+        },
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "ibkcfwn",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "_inline_size_tablet": 50,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "cmlfnsm",
+              "settings": {
+                "icon": "fa fa-bus",
+                "title_text": "Public Transport",
+                "description_text": "Many people use a bus to get around the city every day. This seems useful.",
+                "_css_classes": "card card-raised",
+                "_padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "20",
+                  "bottom": "25",
+                  "left": "25",
+                  "isLinked": false
+                },
+                "_animation": "fadeIn",
+                "primary_color": "#e91e63",
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "title_typography_font_weight": "700",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#ffffff",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "icon-box",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "zaedrne",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "_inline_size_tablet": 50,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "aacdzxv",
+              "settings": {
+                "icon": "fa fa-taxi",
+                "title_text": "Taxi Cabs",
+                "description_text": "Limos, taxi cabs and other services are provided every day for citizens.",
+                "_css_classes": "card card-raised",
+                "_padding": {
+                  "unit": "px",
+                  "top": "25",
+                  "right": "20",
+                  "bottom": "25",
+                  "left": "20",
+                  "isLinked": false
+                },
+                "_animation": "fadeIn",
+                "primary_color": "#e91e63",
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "title_typography_font_weight": "700",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#ffffff",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "icon-box",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "bjidmzw",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null,
+            "animation": "fadeInRight",
+            "space_between_widgets": 45,
+            "background_hover_background": "classic",
+            "_inline_size_tablet": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "vrepvsc",
+              "settings": {
+                "title": "Subway",
+                "inner_text": "",
+                "bar_color": "#e91e63",
+                "title_color": "#3c4858",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "bar_bg_color": "rgba(255,45,129,0.44)",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "progress",
+              "elType": "widget"
+            },
+            {
+              "id": "ukwmsfy",
+              "settings": {
+                "title": "Busses",
+                "percent": {
+                  "unit": "%",
+                  "size": 15
+                },
+                "inner_text": "",
+                "bar_color": "#e91e63",
+                "title_color": "#3c4858",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "bar_bg_color": "rgba(255,45,129,0.44)",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "progress",
+              "elType": "widget"
+            },
+            {
+              "id": "ltluedn",
+              "settings": {
+                "title": "Taxi Cabs",
+                "percent": {
+                  "unit": "%",
+                  "size": 35
+                },
+                "inner_text": "",
+                "bar_color": "#e91e63",
+                "title_color": "#3c4858",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "bar_bg_color": "rgba(255,45,129,0.44)",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "progress",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "htfnkzn",
+      "settings": {
+        "layout": "full_width",
+        "gap": "no",
+        "content_position": "top",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "ftlgfwa",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "invlspd",
+              "settings": {
+                "wp_gallery": [
+                  {
+                    "id": 3537,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/gallery/gallery2.jpg"
+                  },
+                  {
+                    "id": 3538,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/gallery/gallery1.jpg"
+                  },
+                  {
+                    "id": 3539,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/gallery/gallery4.jpg"
+                  },
+                  {
+                    "id": 3540,
+                    "url": "http://samples.themeisle.com/media/hestia-templates/about/gallery/gallery3.jpg"
+                  }
+                ],
+                "thumbnail_size": "shop_single",
+                "gallery_link": "none",
+                "image_spacing": "custom",
+                "image_spacing_custom": {
+                  "unit": "px",
+                  "size": 0
+                },
+                "image_border_radius": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "gallery_display_caption": "none",
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "-0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "_z_index": 0,
+                "_animation": "fadeIn",
+                "image_border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1",
+                  "isLinked": true
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-gallery",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "oqcjuks",
+      "settings": {
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "margin": {
+          "unit": "px",
+          "top": "",
+          "right": 0,
+          "bottom": "",
+          "left": 0,
+          "isLinked": true
+        },
+        "padding": {
+          "unit": "px",
+          "top": "90",
+          "right": "0",
+          "bottom": "30",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "50",
+          "right": "0",
+          "bottom": "10",
+          "left": "0",
+          "isLinked": false
+        },
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "wqqaphh",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "zckvyqj",
+              "settings": {
+                "title": "Our Team",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Roboto Slab",
+                "typography_font_weight": "700",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 2
+                },
+                "_background_background": "classic",
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 30
+                },
+                "title_color": "#3c4858",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "suzjtiv",
+      "settings": {
+        "structure": "30",
+        "background_background": "classic",
+        "background_color": "#e5e5e5",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_image": {
+          "id": 3544,
+          "url": "http://samples.themeisle.com/media/hestia-templates/about/team-background.jpg"
+        },
+        "background_position": "center center",
+        "background_attachment": "fixed",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_overlay_background": "gradient",
+        "background_overlay_color": "#e5e5e5",
+        "background_overlay_color_b": "rgba(229,229,229,0.68)",
+        "background_overlay_color_b_stop": {
+          "unit": "%",
+          "size": 82
+        },
+        "background_overlay_opacity": {
+          "unit": "px",
+          "size": 1
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "50",
+          "left": "0",
+          "isLinked": false
+        },
+        "stretch_section": "section-stretched",
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "vuoloxw",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "_inline_size_tablet": 33,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "dkkjrth",
+              "settings": {
+                "image": {
+                  "id": 3541,
+                  "url": "http://samples.themeisle.com/media/hestia-templates/about/team/team1.jpg"
+                },
+                "title_text": "Teddy Jones",
+                "description_text": "Vinyl tilde wolf, mixtape tote bag chicharrones activated charcoal forage locavore wayfarers drinking vinegar.",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "image_size": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "hover_animation": "bob",
+                "title_bottom_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "_css_classes": "card card-raised ",
+                "text_align": "center",
+                "_padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#f9f9f9",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-box",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "akgocpl",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "frhqdna",
+              "settings": {
+                "image": {
+                  "id": 3542,
+                  "url": "http://samples.themeisle.com/media/hestia-templates/about/team/team2.jpg"
+                },
+                "title_text": "Buddy Beagle",
+                "description_text": "Prism raclette intelligentsia, fingerstache pok pok distillery bushwick food truck. Blog sartorial jean shorts banh. ",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "image_size": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "hover_animation": "bob",
+                "title_bottom_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "_css_classes": "card card-raised ",
+                "text_align": "center",
+                "_padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#ffffff",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-box",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "pzlypop",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "gklwmyx",
+              "settings": {
+                "image": {
+                  "id": 3543,
+                  "url": "http://samples.themeisle.com/media/hestia-templates/about/team/team3.jpg"
+                },
+                "title_text": "Kitty Kat",
+                "description_text": "Vinyl tilde wolf, mixtape tote bag chicharrones activated charcoal forage locavore wayfarers drinking vinegar.",
+                "title_size": "div",
+                "image_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "image_size": {
+                  "unit": "%",
+                  "size": 100
+                },
+                "hover_animation": "bob",
+                "title_bottom_space": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "_padding": {
+                  "unit": "px",
+                  "top": "20",
+                  "right": "20",
+                  "bottom": "20",
+                  "left": "20",
+                  "isLinked": true
+                },
+                "_css_classes": "card card-raised ",
+                "text_align": "center",
+                "_padding_tablet": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "title_color": "#3c4858",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Roboto Slab",
+                "description_color": "#a5a5a5",
+                "description_typography_typography": "custom",
+                "description_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 20
+                },
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 16
+                },
+                "title_typography_font_weight": "700",
+                "title_typography_line_height": {
+                  "unit": "px",
+                  "size": 21
+                },
+                "description_typography_line_height": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "_background_background": "classic",
+                "_background_color": "#ffffff",
+                "_border_radius": {
+                  "unit": "px",
+                  "top": "6",
+                  "right": "6",
+                  "bottom": "6",
+                  "left": "6",
+                  "isLinked": true
+                },
+                "_box_shadow_box_shadow_type": "yes",
+                "_box_shadow_box_shadow": {
+                  "horizontal": 0,
+                  "vertical": 6,
+                  "blur": 15,
+                  "spread": 0,
+                  "color": "rgba(0,0,0,0.5)"
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "image-box",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "nfsxler",
+      "settings": {
+        "layout": "full_width",
+        "gap": "no",
+        "custom_height": {
+          "unit": "px",
+          "size": ""
+        },
+        "column_position": "top",
+        "content_position": "middle",
+        "html_tag": "section",
+        "stretch_section": "section-stretched",
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "bhfqrox",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [
+            {
+              "id": "apoymmj",
+              "settings": {
+                "address": " 45 Rockefeller Plaza, New York, NY 10111, Statele Unite ale Americii",
+                "zoom": {
+                  "unit": "px",
+                  "size": 15
+                },
+                "height": {
+                  "unit": "px",
+                  "size": 400
+                },
+                "_background_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_video_fallback": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_image": {
+                  "url": "",
+                  "id": ""
+                },
+                "_background_hover_video_fallback": {
+                  "url": "",
+                  "id": ""
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "google_maps",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "dmijncp",
+      "settings": {
+        "background_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_video_fallback": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_image": {
+          "url": "",
+          "id": ""
+        },
+        "background_overlay_hover_video_fallback": {
+          "url": "",
+          "id": ""
+        }
+      },
+      "elements": [
+        {
+          "id": "vpbtyqd",
+          "settings": {
+            "_column_size": 100,
+            "background_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_video_fallback": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_image": {
+              "url": "",
+              "id": ""
+            },
+            "background_overlay_hover_video_fallback": {
+              "url": "",
+              "id": ""
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    }
+  ],
+  "page_settings": {
+    "background_background": "classic",
+    "background_color": "#a5a5a5",
+    "background_image": {
+      "url": "",
+      "id": ""
+    },
+    "background_video_fallback": {
+      "url": "",
+      "id": ""
+    }
+  }
+}
