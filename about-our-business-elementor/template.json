@@ -1447,7 +1447,7 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_css_classes": "card card-raised ",
+                "_css_classes": " ",
                 "text_align": "center",
                 "_padding_tablet": {
                   "unit": "px",
@@ -1593,7 +1593,7 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_css_classes": "card card-raised ",
+                "_css_classes": " ",
                 "text_align": "center",
                 "_padding_tablet": {
                   "unit": "px",
@@ -1739,7 +1739,7 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_css_classes": "card card-raised ",
+                "_css_classes": " ",
                 "text_align": "center",
                 "_padding_tablet": {
                   "unit": "px",
@@ -2640,7 +2640,7 @@
                 "icon": "fa fa-bus",
                 "title_text": "Public Transport",
                 "description_text": "Many people use a bus to get around the city every day. This seems useful.",
-                "_css_classes": "card card-raised",
+                "_css_classes": "",
                 "_padding": {
                   "unit": "px",
                   "top": "25",
@@ -2764,7 +2764,7 @@
                 "icon": "fa fa-taxi",
                 "title_text": "Taxi Cabs",
                 "description_text": "Limos, taxi cabs and other services are provided every day for citizens.",
-                "_css_classes": "card card-raised",
+                "_css_classes": "",
                 "_padding": {
                   "unit": "px",
                   "top": "25",
@@ -3478,7 +3478,7 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_css_classes": "card card-raised ",
+                "_css_classes": " ",
                 "text_align": "center",
                 "_padding_tablet": {
                   "unit": "px",
@@ -3625,7 +3625,7 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_css_classes": "card card-raised ",
+                "_css_classes": " ",
                 "text_align": "center",
                 "_padding_tablet": {
                   "unit": "px",
@@ -3772,7 +3772,7 @@
                   "left": "20",
                   "isLinked": true
                 },
-                "_css_classes": "card card-raised ",
+                "_css_classes": " ",
                 "text_align": "center",
                 "_padding_tablet": {
                   "unit": "px",
