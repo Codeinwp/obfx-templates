@@ -15,7 +15,7 @@
         },
         "background_background": "classic",
         "background_image": {
-          "url": "https://raw.githubusercontent.com/Codeinwp/obfx-templates/master/assets/pricing.jpg",
+          "url": "http://raw.githubusercontent.com/Codeinwp/obfx-templates/master/assets/pricing.jpg",
           "id": 164
         },
         "background_position": "center left",
