@@ -1,0 +1,77 @@
+{
+	"hive-landing": {
+		"title": "Hive - Landing Page",
+		"description": "A clean and modern design perfectly suitable for both corporate and creative businesses. Its sections come with a professional vibe and engaging elements such as progress bars, checklists, business-oriented icons, statistics counter, team members, testimonials, and call-to-action buttons.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/hive-landing-page\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/hive-landing.png",
+		"has_badge": "Pro"
+	},
+	"hive-about": {
+		"title": "Hive - About Page",
+		"description": "A beautiful and complex layout for the About Us page, that allows you to introduce your team in a professional manner. The design of this page lets you highlight your team's skills, the services you provide, a hiring contact form for future members, and various other element styles - all put in the spotlight by a subtle orange color.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/hive-about\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/hive-about.png",
+		"has_badge": "Pro"
+	},
+	"sine-landing": {
+		"title": "Sine - Landing Page",
+		"description": "This is an Elementor layout for digital agencies, meant to turn your business goals into conversions. The design catches your eye with its elegant parallax scrolling, classy color gradients, magazine-like typography, interactive counters and icons - all these elements being wrapped up in modern and joyful content blocks and forms.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/sine-landing-page\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/sine-landing.png",
+		"has_badge": "Pro"
+	},
+	"square-landing": {
+		"title": "Square - Landing Page",
+		"description": "A nice and complex landing page for products and apps, with a modern interface that combines orange and violet color tones. All the elements used in this layout are large and provide meaningful sections that describe your product comprehensively. The layout allows you to add videos, screenshots, pricing tables, progress bars and counters - all presented in a beautiful full-screen design.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/square-landing-page\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/square-landing.png",
+		"has_badge": "Pro"
+	},
+	"tekt-landing": {
+		"title": "Tekt - Landing Page",
+		"description": "A layout for architects and interior design agencies, with a clean and simple interface. The full-width header, the modern content blocks, and the parallax backgrounds - all completed by the minimalist approach - make this template a perfect fit for your architecture agency.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/tekt-landing-page\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/tekt-landing.png",
+		"has_badge": "Pro"
+	},
+	"tekt-about": {
+		"title": "Tekt - About Page",
+		"description": "This is the About page of a business based on interior design and architecture, which allows you to beautifully showcase your team members. Apart from introducing the team, you have modern blocks and toggle elements where you can talk more about your agency: add values, services, statistics, and images. (edited)",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/tekt-about-page\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/tekt-about.png",
+		"has_badge": "Pro"
+	},
+	"rik-landing": {
+		"title": "Rik - Landing Page",
+		"description": "This is a clean Landing page, ready to be used for an app presentation. It features beautiful gradients and great layouts for showcasing your product.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/rik-elementor\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/rik-elementor\/screenshot.jpg"
+	},
+    "cause-single": {
+		"title": "Cause - Single Page",
+		"description": "This is a clean Single page, ready to be used for a charity site. Featuring engaging elements such as progress bars, testimonials, and call-to-action buttons.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/cause-single-page\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/cause-single.jpg",
+	    	"has_badge": "Pro"
+	},
+    "cause-landing": {
+		"title": "Cause - Landing Page",
+		"description": "This Landing page ready to showcase your charity cause. It features call-to-action buttons, description of your organization, main causes, volunteer testimonials, stats for your organization and description of your causes.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/cause-landing-page\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/cause-landing.jpg",
+	    	"has_badge": "Pro"
+	},
+    "zerif-lite": {
+		"title": "Zerif Lite",
+		"description": "A friendly one-page WordPress multipurpose theme, with a full-width image in the background and a simple white menu bar at the top. It comes with an elegant and modern design, which could fit very well any kind of business. Zerif Lite has an interactive and colorful interface, with classy parallax effect and lively animations. You can use it for your online shop as well.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/zerif-lite\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/zerif-lite.jpg"
+	},
+	"alexis-page": {
+		"title": "Alexis - Premium Multipurpose Page",
+		"description": "This premium multipurpose page helps you showcase your business. It features 10 sections: About us, Our focus, Portfolio, Our Team, Work Steps, Pricing Table, Testimonials, Why Select Us, Our Blog, Get in Touch. It's the perfect template for businesses that want to grow.",
+		"demo_url": "https:\/\/demo.themeisle.com\/hestia-pro-demo-content\/alexis-elementor\/",
+		"screenshot": "https:\/\/raw.githubusercontent.com\/Codeinwp\/obfx-templates\/master\/placeholders\/alexis-page.jpg",
+		"has_badge": "Pro"
+	}
+}
